@@ -16,6 +16,7 @@ Interpreting user needs and incorporating them into a program involves a thoroug
 My approach to designing software is systematic and user-centric. I begin with requirements gathering and analysis, ensuring I understand what the users need. I then create a high-level design, often using UML diagrams to visualize the system's architecture and components. This is followed by detailed design, where I define the algorithms, data structures, and interfaces. I focus on modularity, ensuring that the system is divided into well-defined modules with clear responsibilities. This modularity aids in maintainability and scalability. During the implementation phase, I follow coding standards and best practices to ensure readability and quality. Finally, I continuously test and validate the software to ensure it meets all functional and non-functional requirements.
 
 **Submitted Files**
+
 Project One:
 Contact.java
 ContactService.java
